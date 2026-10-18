@@ -1,12 +1,9 @@
-# Personal Resume Website — CSS Module
+# Yashvardhan D Maheshwary — Resume Website
 
-A responsive personal resume website built using HTML5 and CSS3.
+Personal resume website built with HTML5 and CSS3 for the IIMB BBA DBE CSS assignment.
 
-## Customize
-Replace `Your Name`, `YN`, college/course information, and `your.email@example.com` in `index.html` with your real details.
+Live site: https://yashwardhan-tech.github.io/my-resume-website/
 
-## Run
-Open `index.html` in a browser.
+Repository: https://github.com/yashwardhan-tech/my-resume-website
 
-## Deploy
-Upload `index.html` and `style.css` to your **existing** GitHub repository. In Settings → Pages, publish from the main branch/root if desired.
+Upload `index.html` and `style.css` to the repository root.
